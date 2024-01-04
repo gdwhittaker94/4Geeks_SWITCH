@@ -25,7 +25,7 @@ This app was made using Reactjs, CSS, and Bootstrap on the frontend, Python, Fla
 
 
 
-## Project Notes
+## Original Project Documentation
 
 - Documentation can be found here: https://start.4geeksacademy.com/starters/react-flask
 - Here is a video on [how to use this template](https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b)

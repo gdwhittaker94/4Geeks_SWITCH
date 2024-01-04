@@ -20,7 +20,8 @@ As a team-based project, obviously the final result of this app is thanks to the
 
 This app was made using Reactjs, CSS, and Bootstrap on the frontend, Python, Flask and SQLAlchemy on the backend, with the Cloudinary API and Paypal API integrated into the app, and everything joined together via Github.
 
-[View the live project here](https://sample-service-name-ficr.onrender.com/)
+**[View the live project here](https://sample-service-name-ficr.onrender.com/)**
+
 ![switch](https://github.com/gdwhittaker94/4Geeks_SWITCH/assets/105855731/c252e0a3-8d57-43e7-8409-b7a9cdb09f02)
 
 

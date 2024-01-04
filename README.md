@@ -2,7 +2,7 @@
 
 SWITCH is an app designed to facilitate real-life language exchanges. It is a low-cost service which supports language exchange organisers by charging a small fee in order to attend an event. Our aim with SWITCH is to make it easy for average users to find language-exchange groups and events near where they live, and primarily to help organisers better manage their groups and events. This idea was based on my own experience as the organiser of a language-exchange group in Burgos for over 2 years.
 
-This was a team-based project that took place over the course of 1 month, using agile methodology in order to manage the progress and evolution of our app, with the purpose of combining all the skills we had learned over the course of 3 months and all the knowledge gained from all the projects completed on the 4Geeks Full-stack developer course.
+This was a team-based project that took place over the course of 1 month, using agile methodology in order to manage the progress and evolution of our app, with the purpose of combining all the skills we had learned over the course of 3 months and all the knowledge gained from all the projects completed on the 4Geeks full-stack developer course.
 
 As a team-based project, obviously the final result of this app is thanks to the work of several people. However, I can highlight my own impressive personal contributions to this project:
 

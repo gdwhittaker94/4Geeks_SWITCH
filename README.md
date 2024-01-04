@@ -1,6 +1,26 @@
-# WebApp boilerplate with React JS and Flask API
+# SWITCH 
 
-Build web applications using React.js for the front end and python/flask for your backend API.
+SWITCH is an app designed to facilitate real-life language exchanges. It is a low-cost service which supports language exchange organisers by charging a small fee in order to attend an event. Our aim with SWITCH is to make it easy for average users to find language-exchange groups and events near where they live, and primarily to help organisers better manage their groups and events. This idea was based on my own experience as the organiser of a language-exchange group in Burgos for over 2 years.
+
+This was a team-based project that took place over the course of 1 month, using agile methodology in order to manage the progress and evolution of our app, with the purpose of combining all the skills we had learned over the course of 3 months and all the knowledge gained from all the projects completed on the 4Geeks Full-stack developer course.
+
+As a team-based project, obviously the final result of this app is thanks to the work of several people. However, I can highlight my own impressive personal contributions to this project:
+
+🌟 I created the entire project tasks board using [Trello](t.ly/TsI0Y)
+🌟 I thought out and visualised the entire user flow of the app using [Figma](t.ly/a-vvS)
+🌟 I contributed over 𝟰𝟳% of the project's total commits on Github (see commit history)
+🌟 I prepared and put our project into production on [render](www.render.com)
+🌟 I integrated the image API [Cloudinary](https://cloudinary.com/) into our project
+🌟 I presented the app live in the 4Geeks Demo Day Presentation 𝑒𝑛 𝑒𝑠𝑝𝑎𝑛̃𝑜𝑙 🇪🇸 [See here](t.ly/ryr-F)
+
+This app was made using Reactjs, CSS, and Bootstrap on the frontend, Python, Flask and SQLAlchemy on the backend, with the Cloudinary API and Paypal API integrated into the app, and everything joined together via Github.
+
+[View the live project here](https://sample-service-name-ficr.onrender.com/)
+![switch](https://github.com/gdwhittaker94/4Geeks_SWITCH/assets/105855731/c252e0a3-8d57-43e7-8409-b7a9cdb09f02)
+
+
+
+## Project Notes
 
 - Documentation can be found here: https://start.4geeksacademy.com/starters/react-flask
 - Here is a video on [how to use this template](https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b)
@@ -69,13 +89,3 @@ Every Github codespace environment will have **its own database**, so if you're 
 
 1. Install the packages: `$ npm install`
 2. Start coding! start the webpack dev server `$ npm run start`
-
-## Publish your website!
-
-This boilerplate it's 100% read to deploy with Render.com and Heroku in a matter of minutes. Please read the [official documentation about it](https://start.4geeksacademy.com/deploy).
-
-### Contributors
-
-This template was built as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
-
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).

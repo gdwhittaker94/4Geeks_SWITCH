@@ -7,10 +7,15 @@ This was a team-based project that took place over the course of 1 month, using 
 As a team-based project, obviously the final result of this app is thanks to the work of several people. However, I can highlight my own impressive personal contributions to this project:
 
 🌟 I created the entire project tasks board using [Trello](t.ly/TsI0Y)
+
 🌟 I thought out and visualised the entire user flow of the app using [Figma](t.ly/a-vvS)
+
 🌟 I contributed over 𝟰𝟳% of the project's total commits on Github (see commit history)
+
 🌟 I prepared and put our project into production on [render](www.render.com)
+
 🌟 I integrated the image API [Cloudinary](https://cloudinary.com/) into our project
+
 🌟 I presented the app live in the 4Geeks Demo Day Presentation 𝑒𝑛 𝑒𝑠𝑝𝑎𝑛̃𝑜𝑙 🇪🇸 [See here](t.ly/ryr-F)
 
 This app was made using Reactjs, CSS, and Bootstrap on the frontend, Python, Flask and SQLAlchemy on the backend, with the Cloudinary API and Paypal API integrated into the app, and everything joined together via Github.
